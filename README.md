@@ -96,10 +96,14 @@ Thank you for your understanding.
 
 # Contributer
 Whoasked
+
 Chun.Tak
 
 # IMPORTANT
 THOTH's 3D Model made by Gemini & Meshy Ai.
+
 Rigging : Whoasked
+
 토트의 3D 모델은 제미나이와 Meshy Ai. 에 의해 생성되었습니다.
+
 리거 : Whoasked
