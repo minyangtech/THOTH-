@@ -1,6 +1,6 @@
 # THOTH
-Local Ai Companion That able to play game together and talk with mic.
-마이크로 대화하고 같이 게임이 가능한 로컬 Ai 컴패니언
+Local Ai Companion That able to play in desktop and talk with mic.
+바탕화면에 3D모델과 함께 마이크로 대화하고 로컬 Ai 컴패니언
 
 # HOW WORK?
 ## Core Concept
@@ -100,10 +100,10 @@ Whoasked
 Chun.Tak
 
 # IMPORTANT
-THOTH's 3D Model made by Gemini & Meshy Ai.
+THOTH's based image made by Gemini
 
 Rigging : Whoasked
 
-토트의 3D 모델은 제미나이와 Meshy Ai. 에 의해 생성되었습니다.
+토트의 기반 이미지는 제미나이에 의해 생성되었습니다.
 
 리거 : Whoasked
