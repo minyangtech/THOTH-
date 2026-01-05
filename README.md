@@ -1,5 +1,6 @@
 # THOTH
 Local Ai Companion That able to play in desktop and talk with mic.
+
 바탕화면에 3D모델과 함께 마이크로 대화하고 로컬 Ai 컴패니언
 
 # HOW WORK?
