@@ -103,8 +103,12 @@ Chun.Tak
 # IMPORTANT
 THOTH's based image made by Gemini
 
+THOTH's 3D MODEL MADE BY MESHY.AI
+
 Rigging : Whoasked
 
 토트의 기반 이미지는 제미나이에 의해 생성되었습니다.
+
+토트의 3D 모델은 MESHY.AI에 의해 생성되었습니다.
 
 리거 : Whoasked
