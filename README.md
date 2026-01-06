@@ -100,7 +100,10 @@ Whoasked
 
 Chun.Tak
 
-# IMPORTANT
+# MODELING
+
+## MAIN MODEL
+
 THOTH's based image made by Gemini
 
 THOTH's 3D MODEL MADE BY MESHY.AI
@@ -112,3 +115,9 @@ Rigging : Whoasked
 토트의 3D 모델은 MESHY.AI에 의해 생성되었습니다.
 
 리거 : Whoasked
+
+## TEMPORARY MODEL
+
+MADE WITH VROID STUDIO
+
+VROID STUDIO로 제작되었습니다.
